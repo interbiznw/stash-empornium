@@ -77,7 +77,7 @@
 const BACKEND_DEFAULT = "http://localhost:9932";
 const STASH_DEFAULT = "http://localhost:9999";
 const STASH_API_KEY_DEFAULT = null;
-const EMPORNIUM_DEFAULT = "https://www.empornium.is";
+const EMPORNIUM_DEFAULT = "https://www.empornium.sx";
 
 const BACKEND = GM_getValue("backend_url", BACKEND_DEFAULT);
 const STASH = GM_getValue("stash_url", STASH_DEFAULT);
